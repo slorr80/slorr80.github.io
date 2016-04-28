@@ -194,8 +194,8 @@
     'connect': 'Connecting...',
     'connect_error': 'Something wrong with connect to chat. Check internet connection or user info and trying again.',
     'login_as': 'Connected as ',
-    'title_login': 'Choose a user to login with:',
-    'title_callee': 'Choose users to call:',
+    'title_login': 'Choose your FitMe Profile to login with:',
+    'title_callee': 'Choose Instructor Class',
     'calling': 'Calling...',
     'webrtc_not_avaible': 'WebRTC is not available in your browser',
     'no_internet': 'Please check your Internet connection and try again'
