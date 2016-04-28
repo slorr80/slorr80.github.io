@@ -43,42 +43,42 @@
       id: 5395743,
       login: 'webuser111',
       password: 'webuser111',
-      full_name: 'User 1',
+      full_name: 'Alan',
       colour: 'FD8209'
     },
     {
       id: 5395747,
       login: 'webuser112',
       password: 'webuser112',
-      full_name: 'User 2',
+      full_name: 'Jess',
       colour: '11a209'
     },
     {
       id: 5681538,
       login: 'webuser113',
       password: 'webuser113',
-      full_name: 'User 3',
+      full_name: 'Max',
       colour: '11a2a9'
     },
     {
       id: 5719859,
       login: 'webuser114',
       password: 'webuser114',
-      full_name: 'User 4',
+      full_name: 'Ioana',
       colour: '51c209'
     },
     {
       id: 5719860,
       login: 'webuser115',
       password: 'webuser115',
-      full_name: 'User 5',
+      full_name: 'Steven',
       colour: '511209'
     },
     {
       id: 5719866,
       login: 'webuser116',
       password: 'webuser116',
-      full_name: 'User 6',
+      full_name: 'Ja',
       colour: '01e209'
     }
   ],
@@ -117,70 +117,70 @@
       id: 2436251,
       login: 'webrtc_user1',
       password: 'x6Bt0VDy5',
-      full_name: 'User 1',
+      full_name: 'Alan',
       colour: 'FD8209'
     },
     {
       id: 2436254,
       login: 'webrtc_user2',
       password: 'x6Bt0VDy5',
-      full_name: 'User 2',
+      full_name: 'Jess',
       colour: '1765FB'
     },
     {
       id: 2436257,
       login: 'webrtc_user3',
       password: 'x6Bt0VDy5',
-      full_name: 'User 3',
+      full_name: 'Max',
       colour: 'F81480'
     },
     {
       id: 2436258,
       login: 'webrtc_user4',
       password: 'x6Bt0VDy5',
-      full_name: 'User 4',
+      full_name: 'Ioana',
       colour: '39A345'
     },
     {
       id: 2436259,
       login: 'webrtc_user5',
       password: 'x6Bt0VDy5',
-      full_name: 'User 5',
+      full_name: 'Steven',
       colour: '921392'
     },
     {
       id: 2436262,
       login: 'webrtc_user6',
       password: 'x6Bt0VDy5',
-      full_name: 'User 6',
+      full_name: 'Ja',
       colour: '6594C5'
     },
     {
       id: 2436263,
       login: 'webrtc_user7',
       password: 'x6Bt0VDy5',
-      full_name: 'User 7',
+      full_name: 'Jess',
       colour: 'C1061E'
     },
     {
       id: 2436265,
       login: 'webrtc_user8',
       password: 'x6Bt0VDy5',
-      full_name: 'User 8',
+      full_name: 'Andy',
       colour: '898989'
     },
     {
       id: 2436266,
       login: 'webrtc_user9',
       password: 'x6Bt0VDy5',
-      full_name: 'User 9',
+      full_name: 'Steven',
       colour: 'C7B325'
     },
     {
       id: 2436269,
       login: 'webrtc_user10',
       password: 'x6Bt0VDy5',
-      full_name: 'User 10',
+      full_name: 'Talha',
       colour: 'BDA0CA'
     }
   ];
@@ -189,11 +189,11 @@
   var QBUsers = usersQuery === 'qa' ? QBUsersQA : usersQuery === 'dev' ? QBUsersDev : QBUsersProd;
 
   var MESSAGES = {
-    'login': 'Login as any user on this computer and another user on another computer.',
+    'login': 'Login with your FitMe Profile',
     'create_session': 'Creating a session...',
     'connect': 'Connecting...',
     'connect_error': 'Something wrong with connect to chat. Check internet connection or user info and trying again.',
-    'login_as': 'Logged in as ',
+    'login_as': 'Connected as ',
     'title_login': 'Choose a user to login with:',
     'title_callee': 'Choose users to call:',
     'calling': 'Calling...',
