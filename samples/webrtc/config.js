@@ -180,7 +180,7 @@
       id: 2436269,
       login: 'webrtc_user10',
       password: 'x6Bt0VDy5',
-      full_name: 'Steve's Son,
+      full_name: 'Fit Me',
       colour: 'BDA0CA'
     }
   ];
