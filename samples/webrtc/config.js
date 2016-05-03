@@ -117,14 +117,14 @@
       id: 2436251,
       login: 'webrtc_user1',
       password: 'x6Bt0VDy5',
-      full_name: 'Alan',
+      full_name: 'Andy',
       colour: 'FD8209'
     },
     {
       id: 2436254,
       login: 'webrtc_user2',
       password: 'x6Bt0VDy5',
-      full_name: 'Jess',
+      full_name: 'Alan',
       colour: '1765FB'
     },
     {
@@ -138,49 +138,49 @@
       id: 2436258,
       login: 'webrtc_user4',
       password: 'x6Bt0VDy5',
-      full_name: 'Ioana',
+      full_name: 'Ja',
       colour: '39A345'
     },
     {
       id: 2436259,
       login: 'webrtc_user5',
       password: 'x6Bt0VDy5',
-      full_name: 'Steven',
+      full_name: 'Jess',
       colour: '921392'
     },
     {
       id: 2436262,
       login: 'webrtc_user6',
       password: 'x6Bt0VDy5',
-      full_name: 'Ja',
+      full_name: 'Ioana',
       colour: '6594C5'
     },
     {
       id: 2436263,
       login: 'webrtc_user7',
       password: 'x6Bt0VDy5',
-      full_name: 'Jess',
+      full_name: 'Steven',
       colour: 'C1061E'
     },
     {
       id: 2436265,
       login: 'webrtc_user8',
       password: 'x6Bt0VDy5',
-      full_name: 'Andy',
+      full_name: 'Talha',
       colour: '898989'
     },
     {
       id: 2436266,
       login: 'webrtc_user9',
       password: 'x6Bt0VDy5',
-      full_name: 'Steven',
+      full_name: 'Yogi Master',
       colour: 'C7B325'
     },
     {
       id: 2436269,
       login: 'webrtc_user10',
       password: 'x6Bt0VDy5',
-      full_name: 'Talha',
+      full_name: 'Steve's Son,
       colour: 'BDA0CA'
     }
   ];
